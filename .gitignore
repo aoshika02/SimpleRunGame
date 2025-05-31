@@ -9,6 +9,8 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/[Aa]ssets/[Mm]ixsamoAssets/
+/[Aa]ssets/MixsamoAssets.meta
 /[Uu]ser[Ss]ettings/
 *.log
 
